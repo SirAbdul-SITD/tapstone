@@ -1,4 +1,5 @@
 TAPSTONE — Google Play Store Listing
+com.desigsdevid.tapstone
 =====================================
 
 App name:
